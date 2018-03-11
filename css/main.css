@@ -1,4 +1,7 @@
-
+/* ===================================================================
+ *
+ *  Dazzle v1.0 Main Stylesheet
+ *  04-27-2017
  *  ------------------------------------------------------------------
  *
  *  TOC:
@@ -26,8 +29,8 @@
  *
  * ------------------------------------------------------------------- */
 
-@import url(".../font-awesome/css/font-awesome.min.css");
-@import url(".../micons/micons.css");
+@import url("font-awesome/css/font-awesome.min.css");
+@import url("micons/micons.css");
 @import url("fonts.css");
 
 
